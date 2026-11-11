@@ -1,0 +1,8 @@
+data/*.csv
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/initial_outputs/
+**/external_patient_coordinates.csv
+**/external_distance_matrix.csv
+student_res_*.csv
+*.DS_Store
